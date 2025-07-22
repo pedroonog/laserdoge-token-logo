@@ -4,7 +4,7 @@
   "description": "A meme coin doge solana",
   "image": "https://raw.githubusercontent.com/pedroonog/laserdoge-token-logo/main/laserdoge.png",
   "decimals": 9,
-  "address": "SEU_ENDERECO_DO_TOKEN",
+  "address": "Gw14xgNcENz1iQjA6WbTmghu22h9Wsf2uYKf7H428jUK",
   "chainId": 101,
   "tags": ["meme", "community-token"]
 }
